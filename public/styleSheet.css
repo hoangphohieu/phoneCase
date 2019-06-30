@@ -1,0 +1,31 @@
+*{margin: 0;padding: 0}
+
+input.input_item_thua {
+    padding: 3px;
+    width: 50%;
+}
+
+.item_thua {
+    border: 3px solid #448aff;
+    font-size: 1.5rem;
+    padding: 5px;
+}
+
+p.p_ban_to {
+    text-align: center;
+    font-size: 2rem;
+    margin: 0;
+    font-weight: 500;
+    cursor: pointer;
+}
+.border_khung{
+      border: 2px solid red
+    }
+    .any_more{
+      color: red;
+      text-decoration: underline;
+    }
+    .no_underline{
+      color: black;
+      text-decoration: none;
+    }

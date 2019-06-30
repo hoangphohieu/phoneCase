@@ -1,0 +1,614 @@
+{
+  "day28_6": [
+    {
+      "id": "1",
+      "idClient": "#MJ6247",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xs Max",
+      "idDesign": "#MJ6247"
+    },
+    {
+      "id": "2",
+      "idClient": "#MJ6233",
+      "amount": "1",
+      "phoneCase": "Phone case iPhone, Samsung-NVTR260616 - iPhone Xs Max",
+      "idDesign": "#MJ6233"
+    },
+    {
+      "id": "3",
+      "idClient": "#MJ6214",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung , Huawei , Oneplus - DBH190614 - iPhone XS MAX",
+      "idDesign": "#MJ6214"
+    },
+    {
+      "id": "4",
+      "idClient": "#MJ6214",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung , Huawei , Oneplus - DBH190616 - iPhone XS MAX",
+      "idDesign": "#MJ6214"
+    },
+    {
+      "id": "5",
+      "idClient": "#MJ6204",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xs Max",
+      "idDesign": "#MJ6204"
+    },
+    {
+      "id": "6",
+      "idClient": "#MJ6164",
+      "amount": "2",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - natr310509 - iPhone Xs Max",
+      "idDesign": "#MJ6164"
+    },
+    {
+      "id": "7",
+      "idClient": "#MJ6140",
+      "amount": "1",
+      "phoneCase": "max",
+      "idDesign": "#MJ6140"
+    },
+    {
+      "id": "8",
+      "idClient": "#MJ6134",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - natr310509 - iPhone Xs Max",
+      "idDesign": "#MJ6134"
+    },
+    {
+      "id": "9",
+      "idClient": "#MJ6117",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NAH300523 - iPhone Xs Max",
+      "idDesign": "#MJ6117"
+    },
+    {
+      "id": "10",
+      "idClient": "#MJ6086",
+      "amount": "1",
+      "phoneCase": "PORSCHE EDITION FOR IPHONE OR SAMSUNG DEVICE - QV010601 - iPhone Xs Max",
+      "idDesign": "#MJ6086"
+    },
+    {
+      "id": "11",
+      "idClient": "#MJ6061",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xs Max",
+      "idDesign": "#MJ6061"
+    },
+    {
+      "id": "12",
+      "idClient": "#MJ6037",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xs Max",
+      "idDesign": "#MJ6037"
+    },
+    {
+      "id": "13"
+    },
+    {
+      "id": "14",
+      "idClient": "#MJ6270",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung - DBD210618 - iPhone Xr",
+      "idDesign": "#MJ6270"
+    },
+    {
+      "id": "15",
+      "idClient": "#MJ6203",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - dh010604 - iPhone Xr",
+      "idDesign": "#MJ6203"
+    },
+    {
+      "id": "16",
+      "idClient": "#MJ6184",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung- qvd210602 - iPhone Xr",
+      "idDesign": "#MJ6184"
+    },
+    {
+      "id": "17",
+      "idClient": "#MJ6176",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung- qvd210602 - iPhone Xr",
+      "idDesign": "#MJ6176"
+    },
+    {
+      "id": "18",
+      "idClient": "#MJ6104",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone, Samsung - DBH150601 - iPhone XR",
+      "idDesign": "#MJ6104"
+    },
+    {
+      "id": "19",
+      "idClient": "#MJ6078",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NAH040626 - iPhone Xr",
+      "idDesign": "#MJ6078"
+    },
+    {
+      "id": "20",
+      "idClient": "#MJ6059",
+      "amount": "1",
+      "phoneCase": "Phone case iPhone, Samsung-natr250613 - iPhone Xr",
+      "idDesign": "#MJ6059"
+    },
+    {
+      "id": "21",
+      "idClient": "#MJ6046",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xr",
+      "idDesign": "#MJ6046"
+    },
+    {
+      "id": "22"
+    },
+    {
+      "id": "23",
+      "idClient": "#MJ6286",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xs",
+      "idDesign": "#MJ6286"
+    },
+    {
+      "id": "24",
+      "idClient": "#MJ6278",
+      "amount": "1",
+      "phoneCase": "Phone Case iPhone , Samsung - DBH260612 - iPhone Xs",
+      "idDesign": "#MJ6278"
+    },
+    {
+      "id": "25",
+      "idClient": "#MJ6241",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, OnePlus - natr150606 - iPhone Xs",
+      "idDesign": "#MJ6241"
+    },
+    {
+      "id": "26",
+      "idClient": "#MJ6186",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung - DBD210620 - iPhone Xs",
+      "idDesign": "#MJ6186"
+    },
+    {
+      "id": "27",
+      "idClient": "#MJ6147",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - DUCATI Edition #QV150605 - iPhone Xs",
+      "idDesign": "#MJ6147"
+    },
+    {
+      "id": "28",
+      "idClient": "#MJ6147",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, OnePlus - natr110601 - iPhone Xs",
+      "idDesign": "#MJ6147"
+    },
+    {
+      "id": "29",
+      "idClient": "#MJ6112",
+      "amount": "1",
+      "phoneCase": "Phone case iPhone, Samsung - NVD260603 - iPhone Xs",
+      "idDesign": "#MJ6112"
+    },
+    {
+      "id": "30",
+      "idClient": "#MJ6064",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xs",
+      "idDesign": "#MJ6064"
+    },
+    {
+      "id": "31",
+      "idClient": "#MJ6061",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone Xs",
+      "idDesign": "#MJ6061"
+    },
+    {
+      "id": "32"
+    },
+    {
+      "id": "33",
+      "idClient": "#MJ6293",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone X",
+      "idDesign": "#MJ6293"
+    },
+    {
+      "id": "34",
+      "idClient": "#MJ6238",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone X",
+      "idDesign": "#MJ6238"
+    },
+    {
+      "id": "35",
+      "idClient": "#MJ6235",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone X",
+      "idDesign": "#MJ6235"
+    },
+    {
+      "id": "36",
+      "idClient": "#MJ6221",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - natr310509 - iPhone X",
+      "idDesign": "#MJ6221"
+    },
+    {
+      "id": "37",
+      "idClient": "#MJ6162",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - DUCATI edition/Red #QV090602 - iPhone X",
+      "idDesign": "#MJ6162"
+    },
+    {
+      "id": "38",
+      "idClient": "#MJ6139",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung- qvd170616 - iPhone X",
+      "idDesign": "#MJ6139"
+    },
+    {
+      "id": "39",
+      "idClient": "#MJ6124",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone X",
+      "idDesign": "#MJ6124"
+    },
+    {
+      "id": "40",
+      "idClient": "#MJ6116",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone X",
+      "idDesign": "#MJ6116"
+    },
+    {
+      "id": "41",
+      "idClient": "#MJ6055",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone X",
+      "idDesign": "#MJ6055"
+    },
+    {
+      "id": "42",
+      "idClient": "#MJ6087",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone X",
+      "idDesign": "#MJ6087"
+    },
+    {
+      "id": "43"
+    },
+    {
+      "id": "44",
+      "idClient": "#MJ6291",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung , Huawei , Oneplus - DBD210622 - iPhone 7 8",
+      "idDesign": "#MJ6291"
+    },
+    {
+      "id": "45",
+      "idClient": "#MJ6144",
+      "amount": "1",
+      "phoneCase": "Phone case iPhone , Samsung - DBTR270606 - iPhone 7 8",
+      "idDesign": "#MJ6144"
+    },
+    {
+      "id": "46",
+      "idClient": "#MJ6101",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone 7 8",
+      "idDesign": "#MJ6101"
+    },
+    {
+      "id": "47",
+      "idClient": "#MJ6097",
+      "amount": "1",
+      "phoneCase": "Phone Case iPhone , Samsung - DBD250616 - iPhone 7 8",
+      "idDesign": "#MJ6097"
+    },
+    {
+      "id": "48",
+      "idClient": "#MJ6057",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - iPhone 7 8",
+      "idDesign": "#MJ6057"
+    },
+    {
+      "id": "49"
+    },
+    {
+      "id": "50",
+      "idClient": "#MJ6148",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung- nvh200620 - iPhone 7 8 Plus",
+      "idDesign": "#MJ6148"
+    },
+    {
+      "id": "51",
+      "idClient": "#MJ6211",
+      "amount": "1",
+      "phoneCase": "7 8 plus",
+      "idDesign": "#MJ6211"
+    },
+    {
+      "id": "52"
+    },
+    {
+      "id": "53",
+      "idClient": "#MJ6252",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung - dh240510 - Galaxy S10 Plus",
+      "idDesign": "#MJ6252"
+    },
+    {
+      "id": "54",
+      "idClient": "#MJ6182",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung - NATR080522 - Galaxy S10 Plus",
+      "idDesign": "#MJ6182"
+    },
+    {
+      "id": "55",
+      "idClient": "#MJ6171",
+      "amount": "1",
+      "phoneCase": "Phone case for iPhone, SamSung, Oneplus - NVTR170605 - Galaxy S10 Plus",
+      "idDesign": "#MJ6171"
+    },
+    {
+      "id": "56",
+      "idClient": "#MJ6115",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - Galaxy S10 Plus",
+      "idDesign": "#MJ6115"
+    },
+    {
+      "id": "57",
+      "idClient": "#MJ6103",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung , Huawei , Oneplus - DBD210622 - Galaxy S10 Plus",
+      "idDesign": "#MJ6103"
+    },
+    {
+      "id": "58",
+      "idClient": "#MJ6094",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR270506 - Galaxy S10 Plus",
+      "idDesign": "#MJ6094"
+    },
+    {
+      "id": "59",
+      "idClient": "#MJ6082",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung , Huawei , Oneplus - DBD210616 - Galaxy S10 Plus",
+      "idDesign": "#MJ6082"
+    },
+    {
+      "id": "60",
+      "idClient": "#MJ6054",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung - NATR230527 - Galaxy S10 Plus",
+      "idDesign": "#MJ6054"
+    },
+    {
+      "id": "61",
+      "idClient": "#MJ6045",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - Galaxy S10 Plus",
+      "idDesign": "#MJ6045"
+    },
+    {
+      "id": "62",
+      "idClient": "#MJ6044",
+      "amount": "1",
+      "phoneCase": "Phone case iPhone, Samsung- NVH250605 - Galaxy S10 Plus",
+      "idDesign": "#MJ6044"
+    },
+    {
+      "id": "63"
+    },
+    {
+      "id": "64",
+      "idClient": "#MJ6188",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung- qvd170616 - Galaxy S10",
+      "idDesign": "#MJ6188"
+    },
+    {
+      "id": "65",
+      "idClient": "#MJ6109",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - NEP Edition/Blue \b#QV110604 - S10",
+      "idDesign": "#MJ6109"
+    },
+    {
+      "id": "66",
+      "idClient": "#MJ6039",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - JAGERMEISTER Edition/Green #QV170601 - Galaxy S10",
+      "idDesign": "#MJ6039"
+    },
+    {
+      "id": "67"
+    },
+    {
+      "id": "68",
+      "idClient": "#MJ6283",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung -mtr210518 - Galaxy S9 Plus",
+      "idDesign": "#MJ6283"
+    },
+    {
+      "id": "69",
+      "idClient": "#MJ6194",
+      "amount": "1",
+      "phoneCase": "Phone case iPhone, Samsung- NATR240608 - Galaxy S9 Plus",
+      "idDesign": "#MJ6194"
+    },
+    {
+      "id": "70",
+      "idClient": "#MJ6146",
+      "amount": "1",
+      "phoneCase": "IPHONE/SAMSUNG/MATE 20PRO/ONEPLUS 6 CASE - ST #QVH210607 - Galaxy S9 Plus",
+      "idDesign": "#MJ6146"
+    },
+    {
+      "id": "71",
+      "idClient": "#MJ6058",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - Kawasaki Edition/Green #QV090603 - Galaxy S9 Plus",
+      "idDesign": "#MJ6058"
+    },
+    {
+      "id": "72",
+      "idClient": "#MJ6240",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - NEP Edition/Blue \b#QV110604 - S9PLUS",
+      "idDesign": "#MJ6240"
+    },
+    {
+      "id": "73",
+      "idClient": "#MJ5142",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung - nah150608 - Galaxy S9 Plus",
+      "idDesign": "#MJ5142"
+    },
+    {
+      "id": "74",
+      "idClient": "#MJ5891",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone, Samsung - DBH150601 - Galaxy S9 Plus",
+      "idDesign": "#MJ5891"
+    },
+    {
+      "id": "75"
+    },
+    {
+      "id": "76",
+      "idClient": "#MJ6172",
+      "amount": "1",
+      "phoneCase": "Phone case for iPhone, SamSung - NVQV080601 - Galaxy S9",
+      "idDesign": "#MJ6172"
+    },
+    {
+      "id": "77",
+      "idClient": "#MJ6089",
+      "amount": "1",
+      "phoneCase": "Phone Case iPhone , Samsung - DBD250616 - Galaxy S9",
+      "idDesign": "#MJ6089"
+    },
+    {
+      "id": "78",
+      "idClient": "#MJ6063",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, OnePlus - AD180612 - Galaxy S9",
+      "idDesign": "#MJ6063"
+    },
+    {
+      "id": "79",
+      "idClient": "#MJ6051",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - Mercedes Edition / Gray #QV090601 - Galaxy S9",
+      "idDesign": "#MJ6051"
+    },
+    {
+      "id": "80",
+      "idClient": "#MJ6049",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung- qvd170616 - Galaxy S9",
+      "idDesign": "#MJ6049"
+    },
+    {
+      "id": "81"
+    },
+    {
+      "id": "82",
+      "idClient": "#MJ6270",
+      "amount": "1",
+      "phoneCase": "Phone Case For iPhone , Samsung - DBD210618 - Galaxy Note 9",
+      "idDesign": "#MJ6270"
+    },
+    {
+      "id": "83",
+      "idClient": "#MJ6255",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - Kawasaki Edition/Green #QV090603 - Galaxy Note 9",
+      "idDesign": "#MJ6255"
+    },
+    {
+      "id": "84",
+      "idClient": "#MJ6234",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, OnePlus - NAH200617 - Galaxy Note 9",
+      "idDesign": "#MJ6234"
+    },
+    {
+      "id": "85",
+      "idClient": "#MJ6229",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - Kawasaki Edition/Green #QV090603 - Galaxy Note 9",
+      "idDesign": "#MJ6229"
+    },
+    {
+      "id": "86",
+      "idClient": "#MJ6156",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung - ad130609 - Galaxy Note 9",
+      "idDesign": "#MJ6156"
+    },
+    {
+      "id": "87",
+      "idClient": "#MJ6119",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, Huawei - NATR240508 - Galaxy Note 9",
+      "idDesign": "#MJ6119"
+    },
+    {
+      "id": "88",
+      "idClient": "#MJ6111",
+      "amount": "1",
+      "phoneCase": "iPhone and Samsung Case - DUCATI edition/Red #QV090602 - Galaxy Note 9",
+      "idDesign": "#MJ6111"
+    },
+    {
+      "id": "89",
+      "idClient": "#MJ6070",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung - ad130609 - Galaxy Note 9",
+      "idDesign": "#MJ6070"
+    },
+    {
+      "id": "90"
+    },
+    {
+      "id": "91",
+      "idClient": "#MJ6098",
+      "amount": "1",
+      "phoneCase": "Phone Case for Iphone, Samsung - dd190613 - Galaxy s7, s7 edge",
+      "idDesign": "#MJ6098"
+    },
+    {
+      "id": "92",
+      "idClient": "#MJ6035",
+      "amount": "1",
+      "phoneCase": "Phone Case for Iphone, Samsung -dtr200602 - Galaxy s7, s7 edge",
+      "idDesign": "#MJ6035"
+    },
+    {
+      "id": "93"
+    },
+    {
+      "id": "94",
+      "idClient": "#MJ6073",
+      "amount": "1",
+      "phoneCase": "Phone case for Iphone, Samsung, OnePlus - dtr120605 - Galaxy S8",
+      "idDesign": "#MJ6073"
+    }
+  ]
+}
