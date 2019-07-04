@@ -4,7 +4,8 @@ import MotItemThua from './MotItemThua';
 class ItemThua extends Component {
       render() {
             let  items  = this.props.itemsThua;
-            console.log(items);
+            
+            
             
             if (items !== undefined) {
                   items = items.map((item, key) => <MotItemThua
@@ -17,7 +18,7 @@ class ItemThua extends Component {
                         anyMore={item.anyMore}
                         {...this.props} />)
             }
-            console.log(items);
+            
             
             return (
                   <div style={{textAlign:'center'}}>

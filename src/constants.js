@@ -12,4 +12,4 @@ export const  POST_ITEM_REQUEST = "POST_ITEM_REQUEST";
 export const  POST_ITEM_SUCSESS = "POST_ITEM_SUCSESS";
 export const  POST_ITEM_RFAILURE = "POST_ITEM_RFAILURE";
 
-export const DAY_TO_GET_API="day28_6"; 
+export const DAY_TO_GET_API="Sheet1"; 

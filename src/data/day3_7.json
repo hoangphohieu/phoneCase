@@ -1,0 +1,384 @@
+{
+  "Sheet1": [
+      {
+          "id": "1",
+          "idClient": "#3DH38560",
+          "country": "UK",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "iPXsMax"
+      },
+      {
+          "id": "2"
+      },
+      {
+          "id": "3",
+          "idClient": "#FAS28430",
+          "country": "MY",
+          "amount": "1",
+          "idDesign": "XUK-P087",
+          "phoneCase": "iPX"
+      },
+      {
+          "id": "4",
+          "idClient": "#3DH48114",
+          "country": "UK",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "iPXs"
+      },
+      {
+          "id": "5"
+      },
+      {
+          "id": "6",
+          "idClient": "#FAS28424",
+          "country": "DE",
+          "amount": "1",
+          "idDesign": "XUK-P103",
+          "phoneCase": "iP8Plus"
+      },
+      {
+          "id": "7"
+      },
+      {
+          "id": "8",
+          "idClient": "#3DH48113",
+          "country": "UK",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "ip7"
+      },
+      {
+          "id": "9",
+          "idClient": "#3DH48109",
+          "country": "UK",
+          "amount": "1",
+          "idDesign": "XUK-P093",
+          "phoneCase": "ip7"
+      },
+      {
+          "id": "10",
+          "idClient": "AS1395",
+          "country": "AU",
+          "amount": "1",
+          "idDesign": "APC-14",
+          "phoneCase": "ip7"
+      },
+      {
+          "id": "11"
+      },
+      {
+          "id": "12",
+          "idClient": "#3DH48110",
+          "country": "IL",
+          "amount": "1",
+          "idDesign": "XUK-P088",
+          "phoneCase": "note 9"
+      },
+      {
+          "id": "13"
+      },
+      {
+          "id": "14",
+          "idClient": "#3DH48115",
+          "country": "IQ",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "s7e"
+      },
+      {
+          "id": "15"
+      },
+      {
+          "id": "16"
+      },
+      {
+          "id": "17"
+      },
+      {
+          "id": "18",
+          "idClient": "#3DH48833",
+          "country": "SE",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "i max"
+      },
+      {
+          "id": "19",
+          "idClient": "#3DH49352",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "XUK-P070",
+          "phoneCase": "i max"
+      },
+      {
+          "id": "20"
+      },
+      {
+          "id": "21",
+          "idClient": "#3DH49117",
+          "country": "BE",
+          "amount": "1",
+          "idDesign": "XUK-P089",
+          "phoneCase": "iphone x"
+      },
+      {
+          "id": "22",
+          "idClient": "#3DH49119",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "XUK-P070",
+          "phoneCase": "iphone x"
+      },
+      {
+          "id": "23",
+          "idClient": "#FAS28666",
+          "country": "SG",
+          "amount": "1",
+          "idDesign": "XUK-P103",
+          "phoneCase": "i phone 8"
+      },
+      {
+          "id": "24",
+          "idClient": "#FAS28730",
+          "country": "AU",
+          "amount": "1",
+          "idDesign": "XUK-P088",
+          "phoneCase": "i phone8"
+      },
+      {
+          "id": "25",
+          "idClient": "#FAS28803",
+          "country": "SE",
+          "amount": "1",
+          "idDesign": "XUK-P102",
+          "phoneCase": "i phone x"
+      },
+      {
+          "id": "26"
+      },
+      {
+          "id": "27",
+          "idClient": "#3DH49111",
+          "country": "GI",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "s8"
+      },
+      {
+          "id": "28"
+      },
+      {
+          "id": "29",
+          "idClient": "#3DH37193",
+          "country": "UK",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "s9"
+      },
+      {
+          "id": "30"
+      },
+      {
+          "id": "31",
+          "idClient": "#3DH38610",
+          "country": "AU",
+          "amount": "1",
+          "idDesign": "XUK-P057",
+          "phoneCase": "i phone 7"
+      },
+      {
+          "id": "32"
+      },
+      {
+          "id": "33",
+          "idClient": "#MJ7077",
+          "country": "GB",
+          "amount": "1",
+          "idDesign": "QV220602",
+          "phoneCase": "iPhone Xs Max"
+      },
+      {
+          "id": "34",
+          "idClient": "#MJ7077",
+          "country": "GB",
+          "amount": "1",
+          "idDesign": "ND040620",
+          "phoneCase": "iPhone Xs Max"
+      },
+      {
+          "id": "35",
+          "idClient": "#TMT8581",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "QVTR250617",
+          "phoneCase": "iPhone Xs Max"
+      },
+      {
+          "id": "36"
+      },
+      {
+          "id": "37",
+          "idClient": "#MJ7100",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "qvd210602",
+          "phoneCase": "iPhone Xr"
+      },
+      {
+          "id": "38"
+      },
+      {
+          "id": "39",
+          "idClient": "#MJ7112",
+          "country": "US",
+          "amount": "1",
+          "idDesign": " G #QV100602",
+          "phoneCase": "XS"
+      },
+      {
+          "id": "40",
+          "idClient": "#MJ4758",
+          "country": "HK",
+          "amount": "1",
+          "idDesign": "NAH300523",
+          "phoneCase": "iPhone X"
+      },
+      {
+          "id": "41",
+          "idClient": "#MJ7141",
+          "country": "ES",
+          "amount": "1",
+          "idDesign": "natr020702",
+          "phoneCase": "iPhone X"
+      },
+      {
+          "id": "42",
+          "idClient": "#TMT8585",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "nvtr270609",
+          "phoneCase": "iPhone X"
+      },
+      {
+          "id": "43",
+          "idClient": "#TMT8579",
+          "country": "FR",
+          "amount": "1",
+          "idDesign": "qvh280602",
+          "phoneCase": "iPhone X"
+      },
+      {
+          "id": "44",
+          "idClient": "#MJ7123",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "G #QV100602",
+          "phoneCase": "iPhone X"
+      },
+      {
+          "id": "45",
+          "idClient": "#MJ6999",
+          "country": "IL",
+          "amount": "1",
+          "idDesign": "DBH260612",
+          "phoneCase": "iPhone X"
+      },
+      {
+          "id": "46",
+          "idClient": "#MJ7129",
+          "country": "GB",
+          "amount": "1",
+          "idDesign": "AD020501",
+          "phoneCase": "Galaxy S10 Plus"
+      },
+      {
+          "id": "47",
+          "idClient": "#MJ7105",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "nah150608",
+          "phoneCase": "Galaxy S10 Plus"
+      },
+      {
+          "id": "48",
+          "idClient": "#TMT8588",
+          "country": "US",
+          "amount": "2",
+          "idDesign": "dbh270613",
+          "phoneCase": "Galaxy S10 Plus"
+      },
+      {
+          "id": "49",
+          "idClient": "#MJ5017",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "ad290517",
+          "phoneCase": "Galaxy S10 Plus"
+      },
+      {
+          "id": "50"
+      },
+      {
+          "id": "51",
+          "idClient": "#MJ7170",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "natr240609",
+          "phoneCase": "Galaxy S10"
+      },
+      {
+          "id": "52"
+      },
+      {
+          "id": "53",
+          "idClient": "#MJ7130",
+          "country": "CA",
+          "amount": "1",
+          "idDesign": "VTTR200609",
+          "phoneCase": "Galaxy S8"
+      },
+      {
+          "id": "54"
+      },
+      {
+          "id": "55",
+          "idClient": "#MJ6206",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "QVTR200626",
+          "phoneCase": "Galaxy S8 plus"
+      },
+      {
+          "id": "56"
+      },
+      {
+          "id": "57",
+          "idClient": "#MJ7167",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "natr240609",
+          "phoneCase": "iPhone 7 8 Plus"
+      },
+      {
+          "id": "58",
+          "idClient": "#MJ7090",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "G #QV090603",
+          "phoneCase": "iPhone 7 8 Plus"
+      },
+      {
+          "id": "59"
+      },
+      {
+          "id": "60",
+          "idClient": "#MJ5370",
+          "country": "US",
+          "amount": "1",
+          "idDesign": "NATR230527",
+          "phoneCase": "Galaxy Note 9"
+      }
+  ]
+}

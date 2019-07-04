@@ -1,0 +1,93 @@
+{
+  "Sheet1": [
+    {
+      "id": "1",
+      "idClient": "AS1378",
+      "country": "AU",
+      "amount": "1",
+      "idDesign": "APC-08",
+      "phoneCase": "iPhone Xs Max"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "idClient": "#3DH47539",
+      "country": "AU",
+      "amount": "1",
+      "idDesign": "XUK-P088",
+      "phoneCase": "iPhone X"
+    },
+    {
+      "id": "4",
+      "idClient": "#FAS28183",
+      "country": "UK",
+      "amount": "1",
+      "idDesign": "XUK-P063",
+      "phoneCase": "iPhone X"
+    },
+    {
+      "id": "5",
+      "idClient": "#3DH47519",
+      "country": "US",
+      "amount": "1",
+      "idDesign": "XUK-P057",
+      "phoneCase": "iPhone X"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "idClient": "#FAS28162",
+      "country": "NZ",
+      "amount": "1",
+      "idDesign": "XUK-P064",
+      "phoneCase": "iPhone Xr"
+    },
+    {
+      "id": "8",
+      "idClient": "AS1366",
+      "country": "AU",
+      "amount": "1",
+      "idDesign": "APC-08",
+      "phoneCase": "iPhone Xr"
+    },
+    {
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "idClient": "#3DH47509",
+      "country": "IL",
+      "amount": "1",
+      "idDesign": "XUK-P088",
+      "phoneCase": "s9"
+    },
+    {
+      "id": "11",
+      "idClient": "#FAS28150",
+      "country": "UK",
+      "amount": "1",
+      "idDesign": "XUK-P108",
+      "phoneCase": "s9"
+    },
+    {
+      "id": "id",
+      "idClient": "idClient",
+      "country": "country",
+      "amount": "1",
+      "idDesign": "idDesign",
+      "phoneCase": "s9"
+    },
+    {
+      "id": "dvdvdsvsd",
+      "idClient": "idClient",
+      "country": "country",
+      "amount": "1",
+      "idDesign": "idDesign",
+      "phoneCase": "s9"
+    }
+  ]
+}

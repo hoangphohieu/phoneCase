@@ -21,15 +21,17 @@ class ItemBanTo extends Component {
       }
 
       render() {
+            let { ban, idDesign, idClient, rePrint, anyMore, phoneCase, printScreen } = this.props;
 
-            let {ban, id, idDesign, idClient, rePrint, anyMore, phoneCase } = this.props;
-            
             return (
-                  <div className={((ban==="to")?"col-3":"col-6")+"  border_khung mot_ban_to "} style={{ height: 150, position: 'relative' }}>
+                  <div className={((ban === "to") ? "col-3" : "col-6") + "  border_khung mot_ban_to "} style={{ height: ((ban === "to") ? 200 : 133), position: 'relative' }}>
                         {/* <button type="button" className="btn btn-primary" style={{ position: "absolute" }} onClick={() => this.inLai({ idDesign, idClient, amount: 1, phoneCase,rePrint:true })}>lại</button> */}
-                        <p className={"p_ban_to " + ((anyMore === true) ? "any_more " : "") + ((rePrint === true) ? "no_underline" : "")} onClick={() => this.copyVanban(idClient)}>{idClient}</p>
-                        <p className="p_ban_to">{phoneCase}</p>
-                        <p className="p_ban_to" onClick={() => this.copyVanban(idClient)}>{idDesign}</p>
+                        <p className={" code_design" + ((anyMore === true) ? " any_more " : "") + ((rePrint === true) ? "no_underline" : "")} onClick={() => this.copyVanban(idClient)}>{idClient}</p>
+                        <p className={"code_phone_case" + ((ban === "to") ? "" : " can_ban_nho")}>{phoneCase}</p>
+                        {(printScreen === true)
+                              ? <p className={"code_day_excel" + ((ban === "to") ? "" : " day_ban_nho")}>{this.props.dayExcel} - <span>{(this.props.country === "US") ? "US" : "WW"}</span></p>
+                              : <p className={"p_ban_to" + (printScreen===true)?((ban === "to") ? "design_idDesign_banTo" : " print_idDesign_banTo"):""} style={{ color: "blue" }} onClick={() => this.copyVanban(idDesign)}>{idDesign}</p>}
+
                   </div>
             );
       }

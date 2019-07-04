@@ -7,7 +7,7 @@ class BanNho extends Component {
             
             let danhSachItem;
             items = _.orderBy(items, ['rePrint','phoneCase', 'idDesign'], ['asc','asc', 'desc']);
-            console.log(items);
+            
             items = _.chunk(items, 14);
             if (items !== undefined) {
                   danhSachItem=items.map((item,key)=><BangItems key={key}ban={"nho"} itemsBang12Items={item}  numberTable={key} {...this.props}/>)

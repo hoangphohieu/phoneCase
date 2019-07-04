@@ -25,7 +25,7 @@ class MotItemThua extends Component {
                         <input type="text"
                               placeholder="Recipient's username"
                               className="input_item_thua item_thua"
-                              Value={phoneCase}
+                              defaultValue={phoneCase}
                               onChange={this.changeInput}
                         />
                         <button type="button" className="btn btn-warning" onClick={()=>this.changeItem({id:id,phoneCase:this.state.valueInput})}>Thay đổi</button>
