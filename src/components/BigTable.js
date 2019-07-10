@@ -7,13 +7,13 @@ import _ from 'lodash';
 class BigTable extends Component {
       constructor(props) {
             super(props);
-            this.state={printScreen:false}
+            this.state = { printScreen: false }
       }
-      
+
       componentDidMount() {
             this.props.getAllItems()
       }
-       changeScreen =()=>{this.setState({printScreen:!this.state.printScreen})}
+      changeScreen = () => { this.setState({ printScreen: !this.state.printScreen }) }
 
       render() {
 
@@ -37,6 +37,7 @@ class BigTable extends Component {
                         // iphone
                         else if (item.phoneCase.trim().toLowerCase().endsWith("ip6") === true
                               || item.phoneCase.trim().toLowerCase().endsWith("ip6s") === true
+                              || item.phoneCase.trim().toLowerCase().endsWith("iphone 6/6s") === true
                         ) return { ...item, phoneCase: "I 6" }
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("ip7") === true
@@ -45,6 +46,7 @@ class BigTable extends Component {
                               || item.phoneCase.trim().toLowerCase().endsWith("i phone8") === true
                               || item.phoneCase.trim().toLowerCase().endsWith("ip8") === true
                               || item.phoneCase.trim().toLowerCase().endsWith("iphone 7 8") === true
+                              || item.phoneCase.trim().toLowerCase().endsWith("iphone 7/8") === true
                         ) return { ...item, phoneCase: "I 7" }
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("ipx") === true
@@ -55,11 +57,13 @@ class BigTable extends Component {
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("ip6plus") === true
                               || item.phoneCase.trim().toLowerCase().endsWith("ip6splus") === true
+                              || item.phoneCase.trim().toLowerCase().endsWith("6/6s plus") === true
                         ) return { ...item, phoneCase: "I 6+" }
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("ip7plus") === true
                               || item.phoneCase.trim().toLowerCase().endsWith("ip8plus") === true
                               || item.phoneCase.trim().toLowerCase().endsWith("7 8 plus") === true
+                              || item.phoneCase.trim().toLowerCase().endsWith("7/8plus") === true
                         ) return { ...item, phoneCase: "I 7+" }
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("xr") === true
@@ -94,6 +98,7 @@ class BigTable extends Component {
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("s9plus") === true
                               || item.phoneCase.trim().toLowerCase().endsWith("s9 plus") === true
+                              || item.phoneCase.trim().toLowerCase().endsWith("s9+") === true
                         ) return { ...item, phoneCase: "S 9+" }
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("s10plus") === true
@@ -101,6 +106,7 @@ class BigTable extends Component {
                         ) return { ...item, phoneCase: "S 10+" }
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("note 8") === true
+                              || item.phoneCase.trim().toLowerCase().endsWith("note8") === true
                         ) return { ...item, phoneCase: "NOTE 8" }
 
                         else if (item.phoneCase.trim().toLowerCase().endsWith("note 9") === true
@@ -138,16 +144,19 @@ class BigTable extends Component {
                         return 0;
                   });
 
-                  for (let i = 0; i < items.length - 1; i++) {
+                  for (let i = 0; i < items.length; i++) {
+
                         try {
-                              if (items[i].idClient === items[i + 1].idClient || items[i].idClient === items[i - 1].idClient) {
+                              if (((i < (items.length - 1)) && items[i].idClient === items[i + 1].idClient) || ((i > 0) && items[i].idClient === items[i - 1].idClient)) {
                                     items[i].anyMore = true;
                               }
                         } catch (error) {
+                              console.log("anymore loi");
 
                         }
 
                   }
+                  console.log(items);
 
 
                   itemsBanTo = items.filter(item => {
@@ -239,8 +248,8 @@ class BigTable extends Component {
                         <BanTo itemsBanTo={itemsBanTo} printScreen={this.state.printScreen} {...this.props} />
                         <BanNho itemsBanNho={itemBanNho} printScreen={this.state.printScreen} {...this.props} />
 
-                        <h2 style={{textAlign:'center', marginTop:50}}>Tổng tất cả: {sumAmount}</h2>
-                       
+                        <h2 style={{ textAlign: 'center', marginTop: 50 }}>Tổng tất cả: {sumAmount}</h2>
+
 
                         <table className="table table-striped table_amounts">
                               <thead>
@@ -251,7 +260,7 @@ class BigTable extends Component {
                                     </tr>
                               </thead>
                               <tbody>
-                              {amountAllPhoneCase}
+                                    {amountAllPhoneCase}
                               </tbody>
                         </table>
 
