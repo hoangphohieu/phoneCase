@@ -1,0 +1,129 @@
+{
+    "Sheet1": [
+        {
+            "id": "1",
+            "idClient": "#3DH41689",
+            "country": "US",
+            "amount": "1",
+            "idDesign": "XUK-P077",
+            "phoneCase": "iPXs"
+        },
+        {
+            "id": "2",
+            "idClient": "#TMT8990",
+            "country": "AU",
+            "amount": "1",
+            "idDesign": "DBM120707",
+            "phoneCase": "iPhone Xs Max"
+        },
+        {
+            "id": "3",
+            "idClient": "#TMT8973",
+            "country": "US",
+            "amount": "1",
+            "idDesign": "QVTR250617",
+            "phoneCase": "iPhone Xs Max"
+        },
+        {
+            "id": "4",
+            "idClient": "#MJ7580",
+            "country": "US",
+            "amount": "1",
+            "idDesign": "dd170615",
+            "phoneCase": "iPhone Xs Max"
+        },
+        {
+            "id": "5"
+        },
+        {
+            "id": "6",
+            "idClient": "#TMT8943",
+            "country": "IT",
+            "amount": "1",
+            "idDesign": "dbm110710",
+            "phoneCase": "iPhone Xs"
+        },
+        {
+            "id": "7"
+        },
+        {
+            "id": "8",
+            "idClient": "#MJ7573",
+            "country": "AU",
+            "amount": "1",
+            "idDesign": "qvd080714",
+            "phoneCase": "iPhone 7 8 Plus"
+        },
+        {
+            "id": "9"
+        },
+        {
+            "id": "10",
+            "idClient": "#TMT8942",
+            "country": "IT",
+            "amount": "1",
+            "idDesign": "NVM120703",
+            "phoneCase": "Galaxy S10 Plus"
+        },
+        {
+            "id": "11"
+        },
+        {
+            "id": "12",
+            "idClient": "#TMT8963",
+            "country": "US",
+            "amount": "1",
+            "idDesign": "NVTR040620",
+            "phoneCase": "Galaxy S9 Plus"
+        },
+        {
+            "id": "13"
+        },
+        {
+            "id": "14",
+            "idClient": "#TMT8951",
+            "country": "CH",
+            "amount": "1",
+            "idDesign": "dbd270617",
+            "phoneCase": "Galaxy S9"
+        },
+        {
+            "id": "15",
+            "idClient": "#TMT8943",
+            "country": "IT",
+            "amount": "1",
+            "idDesign": "dbm110710",
+            "phoneCase": "Galaxy S9"
+        },
+        {
+            "id": "16"
+        },
+        {
+            "id": "17",
+            "idClient": "#TMT8983",
+            "country": "CA",
+            "amount": "1",
+            "idDesign": "NVM120705",
+            "phoneCase": "Galaxy S8 Plus"
+        },
+        {
+            "id": "18"
+        },
+        {
+            "id": "19",
+            "idClient": "#TMT8982",
+            "country": "US",
+            "amount": "1",
+            "idDesign": "DBM120707",
+            "phoneCase": "Galaxy Note 9"
+        },
+        {
+            "id": "20",
+            "idClient": "#MJ7575",
+            "country": "US",
+            "amount": "1",
+            "idDesign": "dh250617",
+            "phoneCase": "Galaxy Note 9"
+        }
+    ]
+}

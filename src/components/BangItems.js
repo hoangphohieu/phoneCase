@@ -4,7 +4,7 @@ class Bang12Items extends Component {
       constructor(props, context) {
             super(props, context);
             this.state = {
-                  dayExcel: "8-7",
+                  dayExcel: "12-7",
                   psdDone: false
             }
       }
